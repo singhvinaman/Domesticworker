@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130421144161",
+    "project_id": "helping-hands-f52f1",
+    "storage_bucket": "helping-hands-f52f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130421144161:android:3d4eacc17ef9679da44820",
+        "android_client_info": {
+          "package_name": "com.example.helping_hands_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130421144161-acpiaiub7a06bkm5c1c0di5tpfka8n1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helping_hands_app",
+            "certificate_hash": "4d3af5820e4d8b73d535aa69fa80ca68536d018c"
+          }
+        },
+        {
+          "client_id": "130421144161-l67lidm3u2hohq74fi60pf9b75kqqpk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helping_hands_app",
+            "certificate_hash": "9d2cd5e03148f9acb2f7dc5c1a5996914eaaff03"
+          }
+        },
+        {
+          "client_id": "130421144161-3jobspckrd91g8vmdskgdoivdnjdrtut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcRDPcdWlrFK-v2RQql29n1DjOhw_Cn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130421144161-3jobspckrd91g8vmdskgdoivdnjdrtut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
